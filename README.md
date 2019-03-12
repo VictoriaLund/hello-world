@@ -1,2 +1,3 @@
 # hello-world
 projekt på Github
+Jeg hedder Victoria og jeg laver lektier.... 
